@@ -23,5 +23,3 @@ This project allows users to reserve a table, select dishes from the menu, and p
 - Responsive Design (Media Queries)
 
 ---
-
-## 📂 Project Structure
